@@ -44,7 +44,7 @@ In this workshop, you'll learn how to:
 Create a workflow that checks for memory leak issues in your C programs:
 1. Set up a new workflow file in `.github/workflows`, e.g., `memory-leak.yml`.
 2. Use a tool like `valgrind` to check the memory leaks.
-3. Ensure the workflow runs on `push` or `pull_request` events.
+3. Ensure the workflow runs on `pull_request` events.
 4. Use grep to get the valgrind output
 
 ---
