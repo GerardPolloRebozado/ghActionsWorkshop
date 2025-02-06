@@ -39,7 +39,7 @@ In this workshop, you'll learn how to:
 
 ---
 
-## **Your Task: Coding Style Workflow**
+## **Your Task: Valgrind memory leak Workflow**
 
 Create a workflow that checks for memory leak issues in your C programs:
 1. Set up a new workflow file in `.github/workflows`, e.g., `memory-leak.yml`.
