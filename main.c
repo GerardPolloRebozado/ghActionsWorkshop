@@ -5,5 +5,4 @@ int main(void)
 {
     // char *memory_leak = malloc(sizeof(char) * 10);
     printf("Hello world");
-    asdashfasjdkas
 }
