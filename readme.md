@@ -39,12 +39,12 @@ In this workshop, you'll learn how to:
 
 ---
 
-## **Your Task: Coding Style Workflow**
+## **Your Task: Valgrind memory leak Workflow**
 
 Create a workflow that checks for memory leak issues in your C programs:
 1. Set up a new workflow file in `.github/workflows`, e.g., `memory-leak.yml`.
 2. Use a tool like `valgrind` to check the memory leaks.
-3. Ensure the workflow runs on `push` or `pull_request` events.
+3. Ensure the workflow runs on `pull_request` events.
 4. Use grep to get the valgrind output
 
 ---
@@ -52,4 +52,3 @@ Create a workflow that checks for memory leak issues in your C programs:
 ## **Resources**
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [GitHub Actions Workflow Syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
-- [clang-format Documentation](https://clang.llvm.org/docs/ClangFormat.html)
