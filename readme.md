@@ -52,4 +52,3 @@ Create a workflow that checks for memory leak issues in your C programs:
 ## **Resources**
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
 - [GitHub Actions Workflow Syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
-- [clang-format Documentation](https://clang.llvm.org/docs/ClangFormat.html)
